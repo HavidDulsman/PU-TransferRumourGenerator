@@ -1,0 +1,6 @@
+Liverpool, Manchester City, Leicester, Manchester United, Chelsea, Arsenal, Spurs, Wolverhampton Wonderers, Sheffield United, Everton, Crystal Palace, West Ham, Norwich, Aston Villa, Watford, Bournemouth, Bright and Hove Albion, Southampton, Newcastle, Burnley
+Bayern Munich, Borussia Dortmund, Bayer Leverkusen, Eintract Frankfurt, Borussia M.Gladbach, Schalke, Union Berlin, Hertha Berlin, RB Leipzig, Hoffenheim, Wolfsburg, Freiburg, Augsberg, Werder Bremen, FC Koln, Dusseldorf, Paderborn, Mainz  
+Barcelona, Real Madrid, Atletico Madrid, Sevilla, Valencia, Real Betis, Eibar, Osasuna, Real Mallorca, Real Sociedad, Athelic Bilbao, Villareal, Celta Vigo, Levante, Granada, Leganes, Getafe
+PSG, Marseille, Lille, Monaco, Lyon
+Juventus, AC Milan, Inter Milan, Roma, Lazio, Napoli, Fiorentina, Sampdoria, Udinese, Sassulo, Torino, Atalanta
+Ajax, PSV, Zenit
