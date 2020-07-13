@@ -18,3 +18,8 @@ Feel free to fork, download or do whatever you guys do :)
 - gained access to application via web browser
 - fixed issue with Jinja2 not locating templates
 - developed template further with radio buttons and divs in form for potential css styling
+
+## 13/07/2020
+- altered .txt files by putting all of the players and teams into their own seperate lists and included other leagues as other rows
+- made progress with the app identifing players from the csv list, however more work needed to achieve original scope
+
